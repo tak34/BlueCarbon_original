@@ -1,0 +1,7 @@
+raw
+proc
+*.csv
+*.pkl
+*cache*
+*checkpoint*
+git.ipynb
